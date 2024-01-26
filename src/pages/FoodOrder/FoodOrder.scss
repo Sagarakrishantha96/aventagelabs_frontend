@@ -1,0 +1,22 @@
+.FoodOrder-container {
+  display: flex;
+  flex-direction: column; 
+
+}
+ 
+.FoodOrder-Form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.FoodOrder-table{
+  margin-top: 4%;  
+  margin-left: 3%;
+  margin-right: 3%;
+}
+
+.FoodOrder-center .card{  
+    align-items: center; 
+}
+
